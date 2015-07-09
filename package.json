@@ -4,7 +4,7 @@
   "description": "Ain't it fab??",
   "main": "index.js",
   "scripts": {
-    "test": "mocha -w"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
