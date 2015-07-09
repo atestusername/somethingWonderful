@@ -1,0 +1,22 @@
+{
+  "name": "somethingWonderful",
+  "version": "1.0.0",
+  "description": "Ain't it fab??",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atestusername/somethingWonderful.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atestusername/somethingWonderful/issues"
+  },
+ "devDependencies": {
+   "mocha": "*"
+  },
+  "homepage": "https://github.com/atestusername/somethingWonderful"
+}
